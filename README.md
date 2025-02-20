@@ -7,9 +7,10 @@ This project was made for the Large Scale Data Analysis course at the AGH UST in
 
 ### Apache Spark Cluster
 
-### structured Streaming
+### Spark Streaming
 
 ### GraphFrames
 
 ## Technology stack
-
+- Python
+- Apache Spark
