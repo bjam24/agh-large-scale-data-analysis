@@ -7,6 +7,8 @@ This project was made for the Large Scale Data Analysis course at the AGH UST in
 
 ### <a href="https://github.com/bjam24/agh-large-scale-data-analysis/blob/master/Lab3_Cluster/lab3_cluster.ipynb">Project 3 - Apache Spark Cluster</a>
 
+https://github.com/user-attachments/assets/81e51d6d-1cfd-4d5b-bd97-2214580d5b67
+
 ### <a href="https://github.com/bjam24/agh-large-scale-data-analysis/blob/master/Lab4_Structured_Data/lab4_Structured_streaming.ipynb">Project 4 - Spark Streaming</a>
 
 ### <a href="https://github.com/bjam24/agh-large-scale-data-analysis/blob/master/Lab4_Structured_Data/lab4_Structured_streaming.ipynb">Project 5 - GraphFrames</a>
